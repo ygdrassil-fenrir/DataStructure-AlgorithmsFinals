@@ -1,3 +1,5 @@
+package Finals;
+
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.InputMismatchException;
@@ -129,7 +131,7 @@ public class MyStack {
             }
 
             // Prompts the user if they want to continue the session.
-            System.out.print("Do you still want to continue?\nResponse: ");
+            System.out.print("Try Again [Y/N]?\nResponse: ");
             char response = sc.nextLine().charAt(0);
             if(response != 'y' && response != 'Y') break;
         }while(session);

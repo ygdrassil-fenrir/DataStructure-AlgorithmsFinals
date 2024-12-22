@@ -1,3 +1,15 @@
+package Finals;
+
+/*
+Leader: Serafica, France Aaron D.
+
+Members:
+Aquino, Samantha Jane
+Baltazar, Eyannah Lawrence
+Ramirez, Loreta
+Refrea, Jerick
+*/
+
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.InputMismatchException;

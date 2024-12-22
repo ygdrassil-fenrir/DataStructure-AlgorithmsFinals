@@ -1,3 +1,15 @@
+package Finals;
+
+/*
+Leader: Serafica, France Aaron D.
+
+Members:
+Aquino, Samantha Jane C.
+Baltazar, Eyannah Lawrence D.
+Ramirez, Loreta
+Refrea, Jerick M.
+*/
+
 import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.InputMismatchException;
@@ -139,6 +151,7 @@ public class MyLinkedList {
                         // Default Case that will end the loop
                         session = false;
                         break;
+
                 }
             } catch (InputMismatchException e) {
                 // Catches the InputMismatchException in the program

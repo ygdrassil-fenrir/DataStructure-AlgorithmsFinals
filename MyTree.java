@@ -1,5 +1,3 @@
-package Finals;
-
 /*
 Leader: Serafica, France Aaron D.
 
